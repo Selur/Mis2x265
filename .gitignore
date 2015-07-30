@@ -1,0 +1,8 @@
+/release/
+/uiHeaders/
+/debug/
+/Makefile
+/Makefile.Debug
+/Makefile.Release
+/.cproject
+/.project
